@@ -1,0 +1,224 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ana Costa",
+      "email": "ana.costa@example.com"
+    },
+    {
+      "id": "3",
+      "name": "Carla Mendes",
+      "email": "carla.mendes@example.com"
+    },
+    {
+      "id": "4",
+      "name": "Daniel Souza",
+      "email": "daniel.souza@example.com"
+    },
+    {
+      "id": "5",
+      "name": "Fernanda Lima",
+      "email": "fernanda.lima@example.com"
+    }
+  ],
+  "cards": [
+    {
+      "id": "1",
+      "user": {
+        "id": "1",
+        "name": "Ana Costa",
+        "email": "ana.costa@example.com"
+      },
+      "stamps": [
+        {
+          "id": 1,
+          "date": "2024-11-01T10:00:00.000Z"
+        },
+        {
+          "id": 2,
+          "date": "2024-11-02T10:00:00.000Z"
+        },
+        {
+          "id": 3,
+          "date": "2024-11-03T10:00:00.000Z"
+        },
+        {
+          "id": 4,
+          "date": "2024-11-04T10:00:00.000Z"
+        },
+        {
+          "id": 5,
+          "date": "2024-11-05T10:00:00.000Z"
+        },
+        {
+          "id": 6,
+          "date": "2024-11-06T10:00:00.000Z"
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9,
+          "date": null
+        },
+        {
+          "id": 10,
+          "date": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": "3",
+        "name": "Carla Mendes",
+        "email": "carla.mendes@example.com"
+      },
+      "stamps": [
+        {
+          "id": 1,
+          "date": "2024-11-22T06:03:39.257Z"
+        },
+        {
+          "id": 2,
+          "date": null
+        },
+        {
+          "id": 3,
+          "date": null
+        },
+        {
+          "id": 4,
+          "date": null
+        },
+        {
+          "id": 5,
+          "date": null
+        },
+        {
+          "id": 6,
+          "date": null
+        },
+        {
+          "id": 7,
+          "date": null
+        },
+        {
+          "id": 8,
+          "date": null
+        },
+        {
+          "id": 9,
+          "date": null
+        },
+        {
+          "id": 10,
+          "date": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": "4",
+        "name": "Daniel Souza",
+        "email": "daniel.souza@example.com"
+      },
+      "stamps": [
+        {
+          "id": 1,
+          "date": null
+        },
+        {
+          "id": 2,
+          "date": null
+        },
+        {
+          "id": 3,
+          "date": null
+        },
+        {
+          "id": 4,
+          "date": null
+        },
+        {
+          "id": 5,
+          "date": null
+        },
+        {
+          "id": 6,
+          "date": null
+        },
+        {
+          "id": 7,
+          "date": null
+        },
+        {
+          "id": 8,
+          "date": null
+        },
+        {
+          "id": 9,
+          "date": null
+        },
+        {
+          "id": 10,
+          "date": null
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": "5",
+        "name": "Fernanda Lima",
+        "email": "fernanda.lima@example.com"
+      },
+      "stamps": [
+        {
+          "id": 1,
+          "date": null
+        },
+        {
+          "id": 2,
+          "date": null
+        },
+        {
+          "id": 3,
+          "date": null
+        },
+        {
+          "id": 4,
+          "date": null
+        },
+        {
+          "id": 5,
+          "date": null
+        },
+        {
+          "id": 6,
+          "date": null
+        },
+        {
+          "id": 7,
+          "date": null
+        },
+        {
+          "id": 8,
+          "date": null
+        },
+        {
+          "id": 9,
+          "date": null
+        },
+        {
+          "id": 10,
+          "date": null
+        }
+      ]
+    }
+  ]
+}

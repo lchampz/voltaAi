@@ -1,0 +1,45 @@
+.fidelity-card {
+    max-width: 350px;
+    margin: 0 auto;
+    height: 180px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.fidelity-stamps {
+    height: 100%;
+    width: 100%;
+
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.box {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    flex-direction: column;
+
+    font-size: 10px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    cursor: pointer;
+    
+}
+
+.stamp {
+    width: 40px;
+    
+    
+}
